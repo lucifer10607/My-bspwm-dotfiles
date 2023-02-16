@@ -5,6 +5,8 @@ Programs used:-
   
   bspwm-rounded by phuhl,
   
+  sxhkd,
+  
   polybar,
   
   picom-ibghagwan-git with my own config,
