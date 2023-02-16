@@ -14,4 +14,3 @@ Fonts:-
   Iosevka Fonts
   Jet Brains Mono
   FiraCode
-_
