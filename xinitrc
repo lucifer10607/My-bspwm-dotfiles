@@ -10,5 +10,5 @@
    done
    unset f
  fi
-
+ 
 dbus-run-session bspwm
